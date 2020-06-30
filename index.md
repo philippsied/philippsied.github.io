@@ -13,3 +13,6 @@ Iron Man is the alter ego of multi-billionaire Anthony Edward "Tony" Stark. He t
 As Ironman said:
 
 > I am Iron Man.
+
+<img src="https://pngimg.com/uploads/ironman/ironman_PNG1.png"/>
+*License: Creative Commons 4.0 BY-NC (https://pngimg.com/download/29594)*
