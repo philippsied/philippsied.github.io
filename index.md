@@ -9,3 +9,7 @@ Iron Man is the alter ego of multi-billionaire Anthony Edward "Tony" Stark. He t
 * charismatic
 * quick-witted
 * rich
+
+As Ironman said:
+
+> I am Iron Man.
